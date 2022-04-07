@@ -53,7 +53,7 @@
 }
 
 .header__link {
-  color: #2f80ed; 
+  color: #2f80ed;
   text-decoration: none;
 }
 .header__main-illustration {
@@ -170,12 +170,6 @@
   margin: 20px 0 0;
 }
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
 
 .feynman {
   background-color: #f2f2f2;
@@ -233,6 +227,8 @@
   width: 200px;
   margin-top: 80px;
   z-index: 1;
+  color: white;
+  margin-right: 0;
 }
 
 .kaufman__triangle {
