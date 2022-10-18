@@ -7,4 +7,4 @@ HTML и CSS.
 Файловая структура организована по правилам Nested БЭМ.
 
 Ссылка на проект:
-[how-to-learn](https://komkovaa.github.io/how-to-learn/)
+[how-to-learn]()
