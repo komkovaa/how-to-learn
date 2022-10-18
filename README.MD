@@ -7,3 +7,5 @@ HTML и CSS.
 Файловая структура организована по правилам Nested БЭМ.
 
 Ссылка на проект: [how-to-learn](https://komkovaa.github.io/how-to-learn/)
+
+Ссылка на макет: [Макет](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf)
